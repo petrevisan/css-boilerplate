@@ -1,6 +1,6 @@
 # Scroll Animation com GSAP e ScrollTrigger
 
-Este código adiciona animações suaves para revelar elementos à medida que o usuário rola a página. Os elementos inicialmente ficam ocultos e aparecem com efeitos de transição ao entrarem na área visível da tela.
+Este código adiciona animações suaves para revelar elementos à medida que o usuário scrolla a página. Os elementos inicialmente ficam ocultos e aparecem com efeitos de transição ao entrarem na área visível da tela.
 
 ## Como Funciona
 
@@ -64,7 +64,7 @@ Este código adiciona animações suaves para revelar elementos à medida que o 
    }
    ```
 
-4. **Adicione o Script JavaScript**:
+4. **Adicione o Script**:
 
    ```javascript
    const scrolls = document.querySelectorAll(
